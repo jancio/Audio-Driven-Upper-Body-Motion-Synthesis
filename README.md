@@ -5,4 +5,4 @@ Under development ...
 
 
 
-![Simplified system operation.](img/SimpleSystemDiagram.eps?raw=true "Simplified system operation.")
+![Simplified system operation.](img/SimpleSystemDiagram.png?raw=true "Simplified system operation.")
