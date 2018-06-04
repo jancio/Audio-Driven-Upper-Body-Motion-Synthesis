@@ -18,12 +18,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 class KFOnline:
-    '''
-    Kalman Filter Class,
-    state has dimension 3
-    optionally can constrain the position
-    with built in plotting
-    '''
+	'''
+	Kalman Filter Class,
+	state has dimension 3
+	optionally can constrain the position
+	with built in plotting
+	'''
 
 	# Specify:
 	# process & observation noises
