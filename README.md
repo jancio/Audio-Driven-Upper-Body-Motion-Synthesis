@@ -4,4 +4,16 @@ In this project I developed an automatic system in which audio input from a user
 
 This project resulted in the following **journal paper**:
 
-... coming soon ...
+Jan Ondras, Oya Celiktutan, Paul Bremner, Hatice Gunes.<br>
+[*Audio-Driven Robot Upper-Body Motion Synthesis.*](https://doi.org/10.1109/TCYB.2020.2966730)<br>
+IEEE Transactions on Cybernetics, 2020.<br>
+
+### Citation
+
+	@article{ondras2020audio,
+	  title={Audio-Driven Robot Upper-Body Motion Synthesis},
+	  author={Ondras, Jan and Celiktutan, Oya and Bremner, Paul and Gunes, Hatice},
+	  journal={IEEE Transactions on Cybernetics},
+	  year={2020},
+	  publisher={IEEE}
+	}
