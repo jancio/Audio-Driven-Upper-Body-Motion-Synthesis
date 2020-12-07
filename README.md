@@ -4,9 +4,9 @@ In this project I developed an automatic system in which audio input from a user
 
 This project was part of my [MEng Thesis](https://github.com/jancio/Audio-Driven-Upper-Body-Motion-Synthesis/blob/master/Thesis/JanOndras_MEng_Thesis_2018.pdf). It resulted in a **journal paper**:
 
-> **Jan Ondras**, Oya Celiktutan, Paul Bremner, Hatice Gunes.<br>
-> [*Audio-Driven Robot Upper-Body Motion Synthesis.*](https://ieeexplore.ieee.org/document/8990043)<br>
-> IEEE Transactions on Cybernetics, 2020.<br>
+> **Jan Ondras**, Oya Celiktutan, Paul Bremner, Hatice Gunes<br>
+> [*Audio-Driven Robot Upper-Body Motion Synthesis*](https://ieeexplore.ieee.org/document/8990043)<br>
+> IEEE Transactions on Cybernetics, 2020<br>
 
 ### Citation
 
